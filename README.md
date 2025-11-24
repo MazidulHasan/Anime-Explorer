@@ -290,7 +290,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Md Mazidul Hasan - [@linkedin](https://www..com/in/md-mazidul-hasan-rumman/)
 
-Project Link: [https://github.com/YOUR_USERNAME/anime-explorer](https://github.com/YOUR_USERNAME/anime-explorer)
+Project Link: [https://github.com/MazidulHasan/Anime-Explorer.git](https://github.com/YOUR_USERNAME/anime-explorer)
 
 ---
 
